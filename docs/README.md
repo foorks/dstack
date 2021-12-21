@@ -12,7 +12,7 @@ DStack was created to bring together some of the popular libraries for the decen
 - Distributed graph database built on top of [Gun.js](https://gun.eco)
 - Geohashing module
 
-Checkout new concept: [IPFS DAG API w/GraphQL](https://github.com/0x77dev/dstack/discussions/15)
+Checkout new concept: [IPFS DAG API w/GraphQL](https://github.com/0x77dev/dstack/milestones/2)
 
 ## DStack uses
 
